@@ -4,6 +4,12 @@ This is a React practice project covering essential React concepts, hooks, routi
 
 [![Vercel](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://react-interview-prep-liard.vercel.app/)
 
+## 🌐 Live Demo
+
+Check out the live version of this project deployed on Vercel:
+
+[React Interview Prep - Live Demo](https://react-interview-prep-liard.vercel.app/)
+
 ---
 
 ## 📂 Project Structure
