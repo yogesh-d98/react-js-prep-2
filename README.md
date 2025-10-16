@@ -2,6 +2,8 @@
 
 This is a React practice project covering essential React concepts, hooks, routing, and component lifecycle. It is designed for learning and experimenting with React features in a structured way.
 
+[![Vercel](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://react-interview-prep-liard.vercel.app/)
+
 ---
 
 ## 📂 Project Structure
